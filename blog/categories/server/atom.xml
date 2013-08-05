@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Server | Dariusz Sadowski]]></title>
-  <link href="http://darsadow.github.io/blog/categories/server/atom.xml" rel="self"/>
-  <link href="http://darsadow.github.io/"/>
-  <updated>2013-08-05T10:24:11+02:00</updated>
-  <id>http://darsadow.github.io/</id>
+  <link href="http://darsadow.com/blog/categories/server/atom.xml" rel="self"/>
+  <link href="http://darsadow.com/"/>
+  <updated>2013-08-05T11:09:07+02:00</updated>
+  <id>http://darsadow.com/</id>
   <author>
     <name><![CDATA[Dariusz Sadowski]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[LAMP for Windows]]></title>
-    <link href="http://darsadow.github.io/blog/2013/08/04/lamp-for-windows/"/>
+    <link href="http://darsadow.com/blog/2013/08/04/lamp-for-windows/"/>
     <updated>2013-08-04T21:46:00+02:00</updated>
-    <id>http://darsadow.github.io/blog/2013/08/04/lamp-for-windows</id>
+    <id>http://darsadow.com/blog/2013/08/04/lamp-for-windows</id>
     <content type="html"><![CDATA[<p>I&rsquo;m a huge fan on *NIX operating sytems. I love console and I can&rsquo;t imagine how to work with git with GUI but when it comes to day-to-day work every Linux Desktop simply sux.</p>
 
 <p>And I&rsquo;m not talking about how it looks. Every Linux has his thing with stability. For example java &ndash; one day it&rsquo;s ok and next day it&rsquo;s broken God knows why. I don&rsquo;t have these problems when I&rsquo;m on Windows. Everything is simply working. BTW when I&rsquo;m using Windows 8 my laptop it gives me 4 hours on battery. With Ubuntu only 1,5.</p>
