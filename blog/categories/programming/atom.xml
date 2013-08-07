@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Programming | Dariusz Sadowski]]></title>
+  <link href="http://darsadow.com/blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://darsadow.com/"/>
+  <updated>2013-08-07T02:08:32+02:00</updated>
+  <id>http://darsadow.com/</id>
+  <author>
+    <name><![CDATA[Dariusz Sadowski]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why Python?]]></title>
+    <link href="http://darsadow.com/blog/2013/08/07/why-did-i-choose-python/"/>
+    <updated>2013-08-07T00:35:00+02:00</updated>
+    <id>http://darsadow.com/blog/2013/08/07/why-did-i-choose-python</id>
+    <content type="html"><![CDATA[<p>Most of the time I&rsquo;m working with PHP. Last few months I&rsquo;ve got interested in Ruby and Rails. But it didn&rsquo;t felt right.</p>
+
+<p>Ruby is a very nice language and I need to say it&rsquo;s very relaxing to write web applications it it. It&rsquo;s not about that. What I want from my second-ish language is more flexibility in what I&rsquo;m doing and what I can do.</p>
+
+<ol>
+<li>Python is a really platform agnostic language. SublimeText is here the best example. It&rsquo;s working same way on all systems.</li>
+<li>What with desktop applications? Ruby is like PHP &ndash; all about web. Here again Sublime and Spotify can be an example.</li>
+<li>But I&rsquo;m still in love with web-dev. So django it is.</li>
+<li>Write less, get more. Python is here similar to Ruby. Maybe a bit more typing, but still way better than $hitloadOfWords in PHP.</li>
+<li>&ldquo;Big Data&rdquo; &ndash; lots of <a href="http://nborwankar.github.io/LearnDataScience/">courses</a> use Python and afair Coursera big data course use it too.</li>
+<li>Performance &ndash; you know &hellip;</li>
+<li>Server side scripting and integrations. SOcket servers, workers, helpers etc on *NIX servers.</li>
+</ol>
+
+
+<p>Python is valid and the best for all of these requirements. PHP and Ruby can achieve same results, but they aren&rsquo;t made for that.</p>
+
+<p>Conlusion: for now PHP (and Ruby) stays as working languages. In free time I&rsquo;ll do more Python.</p>
+
+<p>PS
+Haters gonna hate, but use right tool for the job. I like PHP for cheap infrastructure and that how easy it is to create web apps. Ruby for meta programming and nice intergrations. But, you know, better is the enemy of good.</p>
+]]></content>
+  </entry>
+  
+</feed>
